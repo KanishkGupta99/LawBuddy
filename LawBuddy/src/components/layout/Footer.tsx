@@ -62,7 +62,7 @@ const Footer = () => {
                 fontWeight: 700,
               }}
             >
-              LawMittr
+              LawBuddy
             </Typography>
             <Typography variant="body2" color="text.secondary" sx={{ mb: 2 }}>
               Your trusted platform for legal services. Connect with expert lawyers and get the legal support you need.
@@ -159,11 +159,11 @@ const Footer = () => {
               <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
                 <EmailIcon color="primary" />
                 <Link
-                  href="mailto:support@LawMittr.com"
+                  href="mailto:support@LawBuddy.com"
                   color="text.secondary"
                   sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}
                 >
-                  support@LawMittr.com
+                  support@LawBuddy.com
                 </Link>
               </Box>
               <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
@@ -194,7 +194,7 @@ const Footer = () => {
             gap: 0.5,
           }}
         >
-          © {currentYear} LawMittr. All rights reserved.
+          {currentYear} LawBuddy. All rights reserved.
         </Typography>
       </Container>
     </Box>

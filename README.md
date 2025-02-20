@@ -70,7 +70,7 @@ cd lawbuddy
 
 2. Install frontend dependencies
 ```bash
-cd LawMittr
+cd LawBuddy
 npm install
 ```
 
@@ -87,7 +87,7 @@ npm start
 
 5. Start the frontend application (in a new terminal)
 ```bash
-cd ../LawMittr
+cd ../LawBuddy
 npm start
 ```
 

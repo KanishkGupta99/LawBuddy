@@ -1,8 +1,8 @@
-# LawMittr 🏛️🔗  
+# LawBuddy 🏛️🔗  
 
 ### Your One-Stop Solution for Legal Assistance  
 
-LawMittr is a platform where users can **book appointments** with **verified lawyers** at **reasonable pricing**. It also provides an updated **news & blogs section** to keep users informed about the latest legal trends, along with an **analyze document** feature that helps users understand legal documents in simple language.
+LawBuddy is a platform where users can **book appointments** with **verified lawyers** at **reasonable pricing**. It also provides an updated **news & blogs section** to keep users informed about the latest legal trends, along with an **analyze document** feature that helps users understand legal documents in simple language.
 
 ---
 
@@ -37,7 +37,5 @@ LawMittr is a platform where users can **book appointments** with **verified law
 ### 1️⃣ Clone the Repository  
 
 ```sh
-git clone https://github.com/your-username/LawMittr.git
-cd LawMittr
-
-```
+git clone https://github.com/your-username/LawBuddy.git
+cd LawBuddy
