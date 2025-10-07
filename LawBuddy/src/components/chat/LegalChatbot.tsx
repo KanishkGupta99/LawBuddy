@@ -25,13 +25,13 @@ interface Message {
   timestamp: Date;
 }
 
-const LegalChatbot: React.FC = () => {
+const LegalChatbot: React.FC = () => {  
   const [messages, setMessages] = useState<Message[]>([]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [isChatOpen, setIsChatOpen] = useState(false);
   const messagesEndRef = useRef<null | HTMLDivElement>(null);
-  const API_KEY = "AIzaSyB99T6jpCq62Jp2CrvoU8m_GFujDqNOdpc";
+  const API_KEY = "AIzaSyA-6GTumyuMXSBoUfMIBZbmg5KUWPIhrTY";
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
